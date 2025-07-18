@@ -10,10 +10,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Two-tier Flask App Deployment using Jenkins, Docker & EC2**
+- 🔭 I’m currently working on ** App Deployment using Jenkins, Docker & EC2**
 - 🌱 I’m learning **Linux internals**, **Terraform**, and **Kubernetes**
 - 💬 Ask me about **DevOps tools, Linux commands, or scripting**
-- 📫 How to reach me: **vickyamborkar14@gmail.com**
+- 📫 How to reach me: **vickyamborkar30@gmail.com**
 - ⚡ Fun fact: I can automate almost anything 😉
 
 ---
@@ -52,9 +52,9 @@
 ### 🌐 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vickyamborkar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vickyamborkar14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/vickyamborkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="www.linkedin.com/in/vicky-amborkar-58925b286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vickyamborkar30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/vicky302002r" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
