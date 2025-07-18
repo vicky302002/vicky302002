@@ -33,18 +33,23 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Summary Card (via GitHub Actions)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vickyamborkar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickyamborkar&theme=github_dark" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vickyamborkar&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vickyamborkar&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vickyamborkar&theme=github_dark" alt="Most used language" />
 </p>
 
+---
+
+### 🧮 GitHub Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyamborkar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
